@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-    spec.name         = 'Web3Swift/SipHash'
+    spec.name         = 'Web3Swift-SipHash'
     spec.version      = '1.2.0'
     spec.ios.deployment_target = "8.0"
     spec.osx.deployment_target = "10.9"
